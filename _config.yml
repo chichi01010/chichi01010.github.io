@@ -1,5 +1,5 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-tactile
+title: "나의 덕질 블로그"
+description: "팬홈 블로그 테스트"
+baseurl: ""
+url: "https://닉네임.github.io"
+theme: minima
